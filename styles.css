@@ -23,7 +23,7 @@ body {
     margin-left: .7em;
     margin-right: auto;
     margin-bottom: .4em;
-    margin-top: 2em;
+    margin-top: 1em;
 }
 
 .idCard{ 
@@ -39,6 +39,7 @@ body {
 
 .idCard__subtitle {
     top: 21pt;
+    font-size: 12pt;
     font-weight: 400;
     color: white;
 }
@@ -64,7 +65,7 @@ body {
 
 .idCard__subtitleBlack{
     top: 112pt;
-    font-size: 12pt;
+    font-size: 10pt;
     font-weight: 400;
     color: rgb(42, 42, 42);
 }
@@ -76,8 +77,8 @@ body {
 }
 
 .idCard__subtitleBlack2{
-    top: 142pt;
-    font-size: 12pt;
+    top: 144pt;
+    font-size: 10pt;
     font-weight: 400;
     color: rgb(42, 42, 42);
 }
