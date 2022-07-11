@@ -22,6 +22,7 @@ body {
     font-weight: 400;
     margin-left: .7em;
     margin-right: auto;
+    color: #646464;
     margin-bottom: .4em;
     margin-top: 1em;
 }
@@ -60,27 +61,27 @@ body {
     top: 98pt;
     font-size: 12pt;
     font-weight: 700;
-    color: rgb(42, 42, 42);
+    color: #646464;
 }
 
 .idCard__subtitleBlack{
     top: 112pt;
     font-size: 10pt;
     font-weight: 400;
-    color: rgb(42, 42, 42);
+    color: #646464;
 }
 
 .idCard__titleBlack2 {
     top: 129pt;
     font-weight: 700;
-    color: rgb(42, 42, 42);
+    color: #646464;
 }
 
 .idCard__subtitleBlack2{
     top: 144pt;
     font-size: 10pt;
     font-weight: 400;
-    color: rgb(42, 42, 42);
+    color: #646464;
 }
 
 .idCard__card {
