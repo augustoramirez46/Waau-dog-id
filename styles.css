@@ -33,52 +33,52 @@ body {
 }
 
 .idCard__title {
-    top: 8pt;
+    top: 5%;
     font-weight: 700;
     color: white;
 }
 
 .idCard__subtitle {
-    top: 21pt;
+    top: 13%;
     font-size: 12pt;
     font-weight: 400;
     color: white;
 }
 
 .idCard__title2 {
-    top: 55pt;
+    top: 35%;
     font-weight: 700;
     color: white;
 }
 
 .idCard__subtitle2 {
-    top: 69pt;
+    top: 43%;
     font-weight: 400;
     color: white;
 }
 
 .idCard__titleBlack {
-    top: 98pt;
+    top: 55%;
     font-size: 12pt;
     font-weight: 700;
     color: #646464;
 }
 
 .idCard__subtitleBlack{
-    top: 112pt;
+    top: 62%;
     font-size: 10pt;
     font-weight: 400;
     color: #646464;
 }
 
 .idCard__titleBlack2 {
-    top: 129pt;
+    top: 72%;
     font-weight: 700;
     color: #646464;
 }
 
 .idCard__subtitleBlack2{
-    top: 144pt;
+    top: 80%;
     font-size: 10pt;
     font-weight: 400;
     color: #646464;
@@ -110,7 +110,7 @@ body {
 }
 
 .report__line3 {
-    top: 59pt;
+    top: 53%;
     left: 20%;
     font-size: 20.4pt;
 }
