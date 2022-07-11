@@ -15,7 +15,7 @@ body {
 
 .text {
     position: absolute;
-    left: 1.8em;
+    left: 25pt;
 }
 
 .idTitle {
@@ -32,52 +32,51 @@ body {
 }
 
 .idCard__title {
-    top: .8em;
+    top: 8pt;
     font-weight: 700;
     color: white;
 }
 
 .idCard__subtitle {
-    top: 1.8em;
+    top: 21pt;
     font-weight: 400;
     color: white;
 }
 
 .idCard__title2 {
-    top: 4.5em;
+    top: 55pt;
     font-weight: 700;
     color: white;
 }
 
 .idCard__subtitle2 {
-    top: 5.5em;
+    top: 69pt;
     font-weight: 400;
     color: white;
 }
 
 .idCard__titleBlack {
-    top: 7.5em;
+    top: 98pt;
+    font-size: 12pt;
     font-weight: 700;
     color: rgb(42, 42, 42);
 }
 
 .idCard__subtitleBlack{
-    top: 9.9em;
-    left: 2.1em;
+    top: 112pt;
     font-size: 12pt;
     font-weight: 400;
     color: rgb(42, 42, 42);
 }
 
 .idCard__titleBlack2 {
-    top: 9.5em;
+    top: 129pt;
     font-weight: 700;
     color: rgb(42, 42, 42);
 }
 
 .idCard__subtitleBlack2{
-    top: 12.4em;
-    left: 2.1em;
+    top: 142pt;
     font-size: 12pt;
     font-weight: 400;
     color: rgb(42, 42, 42);
@@ -89,7 +88,16 @@ body {
 
 .report {
     width: 100%;
+    position: relative;
 }
+
+.report__line {
+    font-weight: 700;
+    top: 15px;
+    font-size: ;
+    color: white;
+}
+
 
 .report__back {
     width: 100%;
