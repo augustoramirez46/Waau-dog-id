@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 14pt;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    height: 100vh;
+    font-family: 'Poppins';
+}
+
+.text {
+    position: absolute;
+    left: 1.8em;
+}
+
+.idTitle {
+    font-weight: 400;
+    margin-left: .7em;
+    margin-right: auto;
+    margin-bottom: .4em;
+    margin-top: 2em;
+}
+
+.idCard{ 
+    width: 100%;
+}
+
+.idCard__title {
+    top: 4.8em;
+    font-weight: 700;
+    color: white;
+}
+
+.idCard__subtitle {
+    top: 5.8em;
+    font-weight: 400;
+    color: white;
+}
+
+.idCard__title2 {
+    top: 8.8em;
+    font-weight: 700;
+    color: white;
+}
+
+.idCard__subtitle2 {
+    top: 9.8em;
+    font-weight: 400;
+    color: white;
+}
+
+.idCard__card {
+    width: 100%;
+}
+
+.report {
+    width: 100%;
+}
+
+.report__back {
+    width: 100%;
+}
+
+.info {
+    width: 100%;
+}
+
+.info__back {
+    width: 100%;
+}
+
+.footer {
+    width: 100%;
+}
+
+.footer__back {
+    width: 100%;
+}
