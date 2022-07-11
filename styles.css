@@ -28,30 +28,59 @@ body {
 
 .idCard{ 
     width: 100%;
+    position: relative;
 }
 
 .idCard__title {
-    top: 4.8em;
+    top: .8em;
     font-weight: 700;
     color: white;
 }
 
 .idCard__subtitle {
-    top: 5.8em;
+    top: 1.8em;
     font-weight: 400;
     color: white;
 }
 
 .idCard__title2 {
-    top: 8.8em;
+    top: 4.5em;
     font-weight: 700;
     color: white;
 }
 
 .idCard__subtitle2 {
-    top: 9.8em;
+    top: 5.5em;
     font-weight: 400;
     color: white;
+}
+
+.idCard__titleBlack {
+    top: 7.5em;
+    font-weight: 700;
+    color: rgb(42, 42, 42);
+}
+
+.idCard__subtitleBlack{
+    top: 9.9em;
+    left: 2.1em;
+    font-size: 12pt;
+    font-weight: 400;
+    color: rgb(42, 42, 42);
+}
+
+.idCard__titleBlack2 {
+    top: 9.5em;
+    font-weight: 700;
+    color: rgb(42, 42, 42);
+}
+
+.idCard__subtitleBlack2{
+    top: 12.4em;
+    left: 2.1em;
+    font-size: 12pt;
+    font-weight: 400;
+    color: rgb(42, 42, 42);
 }
 
 .idCard__card {
